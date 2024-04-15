@@ -63,6 +63,7 @@ body {
 .bottom { 
   display: flex;
   color: #fff;
+  border-radius: 5px;
   box-shadow: 20px 20px 100px rgba(0, 0, 0, 0.2); 
 }
 
@@ -140,7 +141,9 @@ body {
   color: var(--clr-yellow);
 }
 
-
+footer {
+  margin-top: 20px;
+}
 
 .attribution { 
   font-size: 12px; 
@@ -160,11 +163,12 @@ body {
 
   .component {
     max-width: 360px;
-    margin: 30px;
+    margin-top: 30px;
   }
 
   .upper {
     padding: 45px 25px 30px 25px;
+    border-radius: 5px 5px 0 0;
   }
 
   .bottom {
@@ -179,6 +183,10 @@ body {
 
   .right {
     border-radius: 0 0 5px 5px;
+  }
+
+  footer span {
+    display: block;
   }
   
  }
