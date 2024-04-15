@@ -5,8 +5,12 @@ Thank you for stoping by. this is a solution for [FrontendMentor - Single Price 
 ## Table of contents
 
 - [Overview](#overview)
-  -[Screenshot](#screenshot)
-  -[Links](#links)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my_process)
+  - [Built with](#built_with)
+- [Author](#author)  
+- [Acknowledgments](#acknowledgments)  
 
 ## Overview
 
