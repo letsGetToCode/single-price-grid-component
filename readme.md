@@ -7,6 +7,10 @@ Thank you for stoping by. this is a solution for [FrontendMentor - Single Price 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
+- [My process](#my_process)
+  - [Built with](#built_with)
+- [Author](#author)  
+- [Acknowledgments](#acknowledgments)  
 
 ## Overview
 
@@ -20,7 +24,7 @@ Thank you for stoping by. this is a solution for [FrontendMentor - Single Price 
 
 ### Links
 
-You can check my solution in [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-single-price-grid-component-challenge-solution-VA9tkxJoun). Advices are vvery welcome!
+You can check my solution in [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-single-price-grid-component-challenge-solution-VA9tkxJoun). Advices are very welcome!
 
 ## My process
 
