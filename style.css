@@ -140,9 +140,7 @@ body {
   color: var(--clr-yellow);
 }
 
-footer {
-  margin-block: 30px;
-}
+
 
 .attribution { 
   font-size: 12px; 
@@ -155,8 +153,14 @@ footer {
  }
  
  @media screen and (max-width: 700px) {
+  body {  
+    height: fit-content;
+    padding-bottom:30px;
+  }
+
   .component {
     max-width: 360px;
+    margin: 30px;
   }
 
   .upper {
